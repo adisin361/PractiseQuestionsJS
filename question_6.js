@@ -10,4 +10,4 @@ const endsWithScriptArrow = str => str.endsWith('Script')?true:false;
 console.log(endsWithScript(str));
 console.log(endsWithScriptArrow(str));
 
-module.exports = {endsWithScript, endsWithScriptArrow}
+module.exports = {endsWithScript, endsWithScriptArrow} 
