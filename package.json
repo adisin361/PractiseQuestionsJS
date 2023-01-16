@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adisin361/PractiseQuestionsJS/issues"
   },
-  "homepage": "https://github.com/adisin361/PractiseQuestionsJS#readme"
+  "homepage": "https://github.com/adisin361/PractiseQuestionsJS#readme",
+  "devDependencies": {
+    "eslint": "^8.32.0"
+  }
 }
